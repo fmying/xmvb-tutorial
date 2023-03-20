@@ -15,5 +15,3 @@ Contents
 .. toctree::
 
    F2
-   Benzene
-   LiF
