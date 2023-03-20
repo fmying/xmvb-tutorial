@@ -14,6 +14,6 @@ Contents
 
 .. toctree::
 
-   BDE and RE of F2
+   F2
    Benzene
    LiF
