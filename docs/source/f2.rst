@@ -12,8 +12,10 @@ There is only 1 chemical bonding in the molecule. The 3 structures of the bondin
 .. figure:: f2.jpg
    :width: 100%
 
-Here ``S1`` denotes the covalent structure in which two active electrons are shared between both F atoms while S2 and 
-S3 denote 2 quivalent ionic structures in which two active eletrons doubly occupy orbital on certain F atom.
+   Structures of F2 molecule
+
+Here ``S1`` denotes the covalent structure in which two active electrons are shared between both F atoms while ``S2`` and 
+``S3`` denote 2 quivalent ionic structures in which two active eletrons doubly occupy orbital on certain F atom.
 
 Computations at Stationary Point
 ---------------------------------
@@ -56,5 +58,17 @@ Here shows the XMVB input file for all 3 structures at stationary point:
   F 0.0 0.0 0.0
   F 0.0 0.0 1.4
   $END
+
+Results
+--------
+
+The computational energies are listed in following table.
+
+.. csv-table:: Computational results
+   :header: "Method","W1","W2","W3"
+   :widths: 25,25,25,25
+
+   "VBSCF","0.8","0.1","0.1"
+   "BOVB","0.7","0.15","0.15"
 
 
