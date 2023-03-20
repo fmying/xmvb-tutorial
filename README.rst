@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+XMVB Tutorial for XACS workshop
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This tutorial includes some examples for running XMVB.
 
 Read the tutorial here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://xacs-xmvb-tutorial.readthedocs.io/en/latest/

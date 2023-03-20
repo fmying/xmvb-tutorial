@@ -1,18 +1,22 @@
-F2
+BDE and RE of F2
 =====
 
-.. _installation:
+.. _Introduction:
 
-Installation
+Introduction
 ------------
 
-To use Lumache, first install it using pip:
+F2 is a typical diatimic molecule which is simple enough for the users as a starting point.
+There is only 1 chemical bonding in the molecule. The 3 structures of the bonding is shown below.
+
+.. figure:: f2.eps
+   :width: 50%
 
 .. code-block:: console
 
    (.venv) $ pip install lumache
 
-Creating recipes
+Computaions at Stationary Point
 ----------------
 
 To retrieve a list of random ingredients,
